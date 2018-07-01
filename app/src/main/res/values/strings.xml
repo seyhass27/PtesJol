@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">PtesJol</string>
+    <string name="drawer_open_desc">open</string>
+    <string name="drawer_close_desc">close</string>
 </resources>
